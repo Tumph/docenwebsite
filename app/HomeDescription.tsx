@@ -1,7 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
 
-import FlowChart from '@/public/PareFlowChart.webp';
 import CroppedFlowChart from '@/public/PareFlowChart.png'
 
 function HomeDescription() {
