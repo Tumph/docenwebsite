@@ -46,7 +46,7 @@ const dummyContent = [
         </p>
         <br />
         <p>
-          Whether you're a training provider or corporation, Docen helps you optimize training outcomes, boost revenue, and reduce costs while maintaining high performance standards.
+          Whether you&apos;re a training provider or corporation, Docen helps you optimize training outcomes, boost revenue, and reduce costs while maintaining high performance standards.
         </p>
       </>
     ),
@@ -57,7 +57,7 @@ const dummyContent = [
     description: (
       <>
         <p>
-          Docen's mission is to eliminate training waste and guesswork by providing data-driven insights into employee knowledge gaps. We're committed to making continuous learning effortless and effective, ensuring organizations can maintain a highly competent workforce through targeted, personalized training interventions.
+          Docen&apos;s mission is to eliminate training waste and guesswork by providing data-driven insights into employee knowledge gaps. We&apos;re committed to making continuous learning effortless and effective, ensuring organizations can maintain a highly competent workforce through targeted, personalized training interventions.
         </p>
       </>
     ),

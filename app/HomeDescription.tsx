@@ -8,7 +8,7 @@ function HomeDescription() {
     <div className='h-screen bg-black flex flex-col gap-24 justify-center items-center text-center text-white '>
         
         <h1 className='text-3xl md:text-5xl font-semibold'>
-            Don't guess what training employees <span className='bg-gradient-to-br to-green-700 from-green-300 text-transparent bg-clip-text'>
+            Don&apos;t guess what training employees <span className='bg-gradient-to-br to-green-700 from-green-300 text-transparent bg-clip-text'>
                 actually need.
             </span> 
         </h1>
