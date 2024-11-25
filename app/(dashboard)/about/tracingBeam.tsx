@@ -30,48 +30,48 @@ export function TracingBeamSection() {
 
 const dummyContent = [
   {
-    title: "About Pare",
+    title: "About Docen",
     description: (
       <>
         <p>
-            Pare is your ultimate recruiting partner. We specialize in revolutionizing the recruitment process by leveraging cutting-edge technology to simplify and enhance candidate evaluation.
+          Docen is your intelligent learning partner, revolutionizing employee training through AI-powered assessment and microlearning. We specialize in identifying and addressing knowledge gaps in real-time, ensuring your workforce maintains peak competency.
         </p>
         <br />
         <p>
-            At Pare, we understand the challenges faced by hiring teams and aim to provide innovative solutions that save time and streamline workflows. Our platform seamlessly integrates with your existing Applicant Tracking System (ATS) to automate resume screening and analyze candidate fit with unprecedented accuracy.
+          Our platform seamlessly integrates with your existing Learning Management System to deliver weekly, bite-sized quiz questions that evaluate employee knowledge. Through sophisticated AI analysis, we identify areas where skills or understanding may be lacking.
         </p>
         <br />
         <p>
-            By harnessing the power of AI and machine learning, Pare crawls personal websites and GitHub repositories to extract invaluable insights, empowering recruiters to make data-driven decisions with confidence.
+          Based on these insights, Docen automatically generates personalized microlearning paths and refresher content, ensuring efficient and targeted learning interventions that maximize training effectiveness while minimizing time investment.
         </p>
         <br />
         <p>
-        Whether you&apos;re a startup or an established enterprise, Pare is committed to transforming the way you hire, ensuring you find the best talent efficiently and effectively.
+          Whether you're a training provider or corporation, Docen helps you optimize training outcomes, boost revenue, and reduce costs while maintaining high performance standards.
         </p>
       </>
     ),
-    badge: "Pare",
-    },
+    badge: "Docen",
+  },
   {
     title: "Our Mission",
     description: (
       <>
         <p>
-        Pare&apos;s mission is to empower recruiters with powerful tools that simplify and enhance the hiring process. We strive to bridge the gap between talent and opportunity by providing comprehensive insights and analytics that enable informed hiring decisions.
+          Docen's mission is to eliminate training waste and guesswork by providing data-driven insights into employee knowledge gaps. We're committed to making continuous learning effortless and effective, ensuring organizations can maintain a highly competent workforce through targeted, personalized training interventions.
         </p>
       </>
     ),
-    badge: "Recruiters",
-    },
+    badge: "Smart Learning",
+  },
   {
     title: "Get in Touch",
     description: (
       <>
         <p>
-        Ready to experience the future of recruiting? Contact us today to learn more about Pare and how we can transform your hiring strategy.
+          Ready to transform your training approach with AI-powered assessment and microlearning? Contact us today to learn how Docen can optimize your training strategy and boost workforce competency.
         </p>
       </>
     ),
-    badge: "Reach Out",
-    },
+    badge: "Connect",
+  },
 ];

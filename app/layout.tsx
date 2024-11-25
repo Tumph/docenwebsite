@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Pare",
-  description: "Your Ultimate Recruiting Partner",
+  title: "Docen",
+  description: "Supercharge your L&D with AI.",
   icons: {
     icon: [
       { url: '/favicon.ico'},

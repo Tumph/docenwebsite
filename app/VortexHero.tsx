@@ -15,12 +15,12 @@ export function VortexHero() {
             Meet <span
                       className="bg-gradient-to-br to-green-700 from-green-300 text-transparent bg-clip-text"
                       >
-                      Pare
+                      Docen
                   </span>
           </h2>
 
           <h2 className="text-white text-xl md:text-3xl font-bold text-center">
-              Your Ultimate Recruiting Partner.
+              The future of L&D and AI powered learning.
           </h2>
           <div className="flex flex-col sm:flex-row items-center gap-4 mt-6">
             <ConnectButton text="Get Started" href="https://calendly.com/argupta_/30min" />
